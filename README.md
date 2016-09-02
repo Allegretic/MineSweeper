@@ -13,5 +13,5 @@ Java Development Kit on Windows x86
 Allegretic and rv80510110043
 
 ## LICENSE
-Copyright (c) 2016 Allegretic
+Copyright (c) 2016 Allegretic and rv80510110043
 
