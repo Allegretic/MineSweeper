@@ -9,7 +9,8 @@
 
 Java Development Kit on Windows x86
 
-
+## Contributors
+Allegretic and rv80510110043
 
 ## LICENSE
 
