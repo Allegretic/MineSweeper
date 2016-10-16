@@ -102,7 +102,7 @@ public class MineSweeper extends JPanel implements MouseListener {
 
 	}
 
-	public void ganerateMine(int mine, int point_x, int point_y) {
+	public void generateMine(int mine, int point_x, int point_y) {
 		mineGenerator = true;
 		rand = new Random();
 		int x = 0, y = 0;
@@ -605,7 +605,7 @@ public class MineSweeper extends JPanel implements MouseListener {
 
 					clickCounter++;
 					if (clickCounter == 1) {
-						ganerateMine(mines, point_x, point_y);
+						generateMine(mines, point_x, point_y);
 					}
 
 					openGrass(point_x, point_y);
